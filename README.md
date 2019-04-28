@@ -85,3 +85,6 @@ $ bazel run client/client -- --logtostderr
 * gRPC: https://www.grpc.io/
 * Google RPC [Status](https://github.com/googleapis/googleapis/blob/master/google/rpc/status.proto) and 
 [Canonical Error Codes](https://github.com/googleapis/googleapis/blob/master/google/rpc/codes.proto)
+
+## MacOS
+
