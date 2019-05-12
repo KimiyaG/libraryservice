@@ -88,3 +88,5 @@ $ bazel run client/client -- --logtostderr
 
 ## MacOS
 
+macOS instructions are similar to the instructions above for Ubuntu but follow the installation instructions on each linked site for macOS.
+
